@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "467053778170",
+    "firebase_url": "https://flash-chat-7e9c3.firebaseio.com",
+    "project_id": "flash-chat-7e9c3",
+    "storage_bucket": "flash-chat-7e9c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467053778170:android:59549b72cc4daaca2da543",
+        "android_client_info": {
+          "package_name": "co.umarahmed.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467053778170-54h63rgobf2tpm22d5u7gp85jh6s8p83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr3lOqW-2tcDBHRs1IMFd88G_A9OvX0MA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467053778170-54h63rgobf2tpm22d5u7gp85jh6s8p83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
